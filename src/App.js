@@ -11,7 +11,9 @@ let navigate = useNavigate();
   return (
     <div className="App">
      <p className='font-bold text-3xl text-center'>Project Penjana</p>
-     
+     <p>2022</p>
+     <p>KaKiKu</p>
+     <p>By: JbatYani</p>
      <button className='border-2' onClick = {() => navigate('/landingpage')}>Go to landing page</button>
      <div></div>
     </div>
