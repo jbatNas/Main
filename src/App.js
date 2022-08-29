@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import './index.css';
 import {Landing} from './component/landingpage'
-import useNavigate from 'react-router-dom'
+import {useNavigate} from 'react-router-dom'
 
 function App() {
 
