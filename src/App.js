@@ -13,6 +13,7 @@ const navigate = useNavigate();
      <p className='font-bold text-3xl text-center'>Project Penjana</p>
      <p>2022</p>
      <p>Pusing Kepala</p>
+     <p>Hahahahaha</p>
      <p>By: JbatYani</p>
      <button className='border-2' onClick = {() => navigate('/landingpage')}>Go to landing page</button>
      <div></div>
